@@ -1,4 +1,4 @@
-# jazeera_paints
+# Appointment App
 
 A new Flutter project.
 
